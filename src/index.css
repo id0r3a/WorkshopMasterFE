@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #0f172a;
+  font-family: system-ui, sans-serif;
+  color: #e5e7eb;
+}
+
+button {
+  cursor: pointer;
+}
